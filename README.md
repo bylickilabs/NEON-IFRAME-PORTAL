@@ -1,4 +1,4 @@
-# Neon IFrame Portal
+# Neon IFrame Template
 
 > A modern web application with an animated neon design, iframe embedding, and interactive buttons. Developed for GitHub Pages and open-source deployment.
 
