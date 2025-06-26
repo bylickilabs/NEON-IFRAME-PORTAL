@@ -17,14 +17,19 @@
   </header>
   <main>
     <div class="button-bar">
-      <button class="neon-btn" onclick="setIframe('https://github.com/bylickilabs')">Button 1</button>
-      <!--<button class="neon-btn" onclick="setIframe('YOUR_HTTPS_LINK_HERE')">Button 2</button>
-      <button class="neon-btn" onclick="setIframe('YOUR_HTTPS_LINK_HERE')">Button 3</button>-->
+      <button class="neon-btn" onclick="setIframe('https://verify.w3schools.com/1Q2DEQ8RXN')">Private Website</button>
+      <a href="https://verify.w3schools.com/1Q2D66NFLP" class="neon-btn" target="_blank" rel="noopener">CERTIFICATE (extern)</a>
     </div>
     <div class="iframe-wrapper">
-      <iframe id="main-iframe" src="https://github.com/bylickilabs" allowfullscreen loading="lazy"></iframe>
+      <iframe id="main-iframe" src="https://verify.w3schools.com/1Q2DEQ8RXN" allowfullscreen loading="lazy"></iframe>
     </div>
   </main>
+  <script>
+    function setIframe(url) {
+      document.getElementById('main-iframe').src = url;
+    }
+  </script>
+</body>
 <!-- COPY THIS INTO YOUR INDEX.HTML-->
   
   <footer>
