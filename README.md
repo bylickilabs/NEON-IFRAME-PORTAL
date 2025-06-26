@@ -2,7 +2,7 @@
 
 > A modern web application with an animated neon design, iframe embedding, and interactive buttons. Developed for GitHub Pages and open-source deployment.
 
-|![image](https://github.com/user-attachments/assets/61ac5779-cec4-4e88-b35e-7b69bf319dda)|
+|![image](https://github.com/user-attachments/assets/a1572e5a-75c6-417a-8b50-fb04bbea724f)|
 |---|
 
 ---
